@@ -1,0 +1,31 @@
+body {
+  font-family: Arial;
+  background-color: rgb(75, 143, 220);
+}
+
+.container {
+  width: 400px;
+  
+  margin: auto;
+  margin-top: 300px;
+  background: rgb(187, 220, 227);
+  padding: 20px;
+  text-align: center;
+  align-items: center;
+}
+
+input {
+  padding: 10px;
+  width: 180px;
+}
+
+button {
+  padding: 10px;
+}
+
+li {
+  margin-top: 10px;
+  list-style: none;
+  background: wheat;
+  padding: 10px;
+}
